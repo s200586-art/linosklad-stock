@@ -147,13 +147,18 @@ def parse_name(name: str) -> tuple[str, float | None, bool]:
     leftover = bool(re.search(r"остаток", name, re.I))
     n = re.sub(r"\s*\(остаток[^)]*\)", "", name, flags=re.I)
     n = re.sub(r"\s+", " ", n).strip()
+    width = None
     m = re.search(r"(\d+(?:[.,]\d+)?)\s*м\s*$", n, re.I)
     if not m:
         m = re.search(r"[-–]\s*(\d+(?:[.,]\d+)?)\s*м\s*$", n, re.I)
-    width = None
+    if not m:
+        m = re.search(r"\((\d+(?:[.,]\d+)?)\s*м\s*/", n, re.I)
+    if not m:
+        m = re.search(r"(\d+(?:[.,]\d+)?)\s*м", n, re.I)
     if m:
         width = float(m.group(1).replace(",", "."))
-        n = n[: m.start()].strip(" -–")
+    n = re.sub(r"\s*\(\s*\d+[.,]?\d*\s*м\s*/[^)]*\)", " ", n)
+    n = re.sub(r"\s+\d+(?:[.,]\d+)?\s*м\b", " ", n, flags=re.I)
     n = re.sub(r"_[A-Z]{0,4}\d{2,}\s*-?\s*$", "", n).strip(" -")
     n = re.sub(r"\s+", " ", n).strip()
     return n, width, leftover
