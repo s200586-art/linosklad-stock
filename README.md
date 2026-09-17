@@ -9,4 +9,4 @@
 `parse.py` — разбор Excel.
 
 Карточка: https://app.notion.com/p/3ccda230dd52810aa282e00bae6b24b6  
-Карта на диске: `Documents/Ecom/сайты/линосклад/КАК УСТРОЕНО.md`
+Карта на диске: `Documents/Ecom/линосклад/КАК УСТРОЕНО.md`
