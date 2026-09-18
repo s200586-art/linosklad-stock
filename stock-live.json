@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-09-18",
-  "designs": 65,
-  "skus": 168,
-  "tyumenLinearM": 5749.28,
+  "asOf": "2026-09-17",
+  "designs": 68,
+  "skus": 174,
+  "tyumenLinearM": 5936.78,
   "items": [
     {
       "slug": "linoleum-bazis-nxt-aventura-10",
@@ -38,7 +38,7 @@
       "title": "Линолеум BAZIS NXT DOTS 1",
       "stockByWidth": {
         "3": 0.5,
-        "3.5": 1.0
+        "3.5": 3.0
       },
       "widthsM": [
         3,
@@ -53,7 +53,7 @@
       "slug": "linoleum-bazis-nxt-vegas-3",
       "title": "Линолеум BAZIS NXT VEGAS 3",
       "stockByWidth": {
-        "3": 11.0,
+        "3": 19.0,
         "3.5": 0.4
       },
       "widthsM": [
@@ -687,7 +687,7 @@
       }
     },
     {
-      "slug": "linoleum-semey-1-pvh-pokrytie-150-5m2-kvazar-tarket",
+      "slug": "linoleum-tarkett-kvazar-semey-1",
       "title": "Линолеум SEMEY 1 ПВХ-покрытие /150,5м2) Kvazar,Таркет",
       "stockByWidth": {
         "3.5": 593.3
@@ -700,7 +700,7 @@
       }
     },
     {
-      "slug": "linoleum-semey-1-pvh-pokrytie-kvazar-tarket",
+      "slug": "linoleum-tarkett-kvazar-semey-1",
       "title": "Линолеум SEMEY 1 ПВХ-покрытие Kvazar,Таркет",
       "stockByWidth": {
         "2.5": 358.5
@@ -1037,7 +1037,7 @@
       }
     },
     {
-      "slug": "rulonnyy-vinil-ultra-cracked-oak",
+      "slug": "rulonnyy-vinil-ultra-cracked-oak-696-m",
       "title": "Линолеум Рулонный винил ULTRA CRACKED OAK",
       "stockByWidth": {
         "2": 3.88,
@@ -1063,7 +1063,7 @@
       "title": "Линолеум Рулонный винил ULTRA CRACKED OAK 016 L",
       "stockByWidth": {
         "2.5": 1.21,
-        "3": 4.05,
+        "3": 5.55,
         "3.5": 3.53,
         "4": 5.45
       },
@@ -1138,7 +1138,7 @@
     },
     {
       "slug": "linoleum-ivc-533",
-      "title": "Линолеум IVC 533",
+      "title": "Линолеум Magnatex Дуб Белфорт 533",
       "stockByWidth": {
         "2.5": 12.95,
         "3": 32.15,
@@ -1156,6 +1156,54 @@
         "3": "ЦБ-00032689",
         "3.5": "ЦБ-00032688",
         "4": "ЦБ-00032690"
+      }
+    },
+    {
+      "slug": "linoleum-magnatex-grand-oak-891",
+      "title": "Линолеум Magnatex Grand Oak 891",
+      "stockByWidth": {
+        "2.5": 40.0,
+        "4": 20.0
+      },
+      "widthsM": [
+        2.5,
+        4.0
+      ],
+      "articlesByWidth": {
+        "2.5": "ЦБ-00032696",
+        "4": "ЦБ-00032695"
+      }
+    },
+    {
+      "slug": "linoleum-magnatex-lawrence-534",
+      "title": "Линолеум Magnatex Lawrence 534",
+      "stockByWidth": {
+        "3.5": 20.0
+      },
+      "widthsM": [
+        3.5
+      ],
+      "articlesByWidth": {
+        "3.5": "ЦБ-00032691"
+      }
+    },
+    {
+      "slug": "linoleum-magnatex-lawrence-535",
+      "title": "Линолеум Magnatex Lawrence 535",
+      "stockByWidth": {
+        "2.5": 20.0,
+        "3": 38.0,
+        "4": 38.0
+      },
+      "widthsM": [
+        2.5,
+        3.0,
+        4.0
+      ],
+      "articlesByWidth": {
+        "2.5": "ЦБ-00032692",
+        "3": "ЦБ-00032693",
+        "4": "ЦБ-00032694"
       }
     }
   ]
