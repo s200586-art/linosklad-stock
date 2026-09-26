@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-09-25",
+  "asOf": "2026-09-26",
   "designs": 68,
   "skus": 174,
-  "tyumenLinearM": 5660.52,
+  "tyumenLinearM": 5626.02,
   "items": [
     {
       "slug": "linoleum-bazis-nxt-aventura-10",
@@ -24,7 +24,7 @@
       "slug": "linoleum-bazis-nxt-davos-1",
       "title": "Линолеум BAZIS NXT DAVOS 1",
       "stockByWidth": {
-        "3": 15.0
+        "3": 14.0
       },
       "widthsM": [
         3
@@ -179,7 +179,7 @@
       "title": "Линолеум JUTEKS FORUM ARONA 1",
       "stockByWidth": {
         "3": 0.45,
-        "3.5": 3.5,
+        "3.5": 0.5,
         "4": 4.0
       },
       "widthsM": [
@@ -295,7 +295,7 @@
       "slug": "linoleum-juteks-nelson-kerama-4",
       "title": "Линолеум JUTEKS NELSON KERAMA 4",
       "stockByWidth": {
-        "2.5": 34.5,
+        "2.5": 32.5,
         "3": 2.0,
         "3.5": 2.5,
         "4": 3.5
@@ -758,7 +758,7 @@
       "slug": "linoleum-sinteros-status-graph-1",
       "title": "Линолеум Sinteros Status Graph 1",
       "stockByWidth": {
-        "2.5": 35.5,
+        "2.5": 33.0,
         "3": 1.1,
         "4": 4.5
       },
@@ -913,7 +913,7 @@
       "stockByWidth": {
         "2": 225.5,
         "2.5": 571.7,
-        "3": 4.5,
+        "3": 2.5,
         "3.5": 2.0,
         "4": 8.0
       },
@@ -972,7 +972,7 @@
       "title": "Линолеум Текстура AVANTA NXT ARDEN 5",
       "stockByWidth": {
         "2.5": 251.1,
-        "3": 273.8,
+        "3": 265.3,
         "3.5": 162.5,
         "4": 232.0
       },
@@ -994,7 +994,7 @@
       "title": "Линолеум Текстура AVANTA NXT KARUZO 3",
       "stockByWidth": {
         "1.5": 18.6,
-        "2": 5.5,
+        "2": 1.5,
         "3": 1.4,
         "3.5": 260.5,
         "4": 121.3
@@ -1018,7 +1018,7 @@
       "slug": "linoleum-tekstura-avanta-nxt-tatami-2",
       "title": "Линолеум Текстура AVANTA NXT TATAMI 2",
       "stockByWidth": {
-        "2.5": 133.0,
+        "2.5": 129.0,
         "3": 101.9,
         "3.5": 1.0,
         "4": 4.5
@@ -1140,7 +1140,7 @@
       "slug": "linoleum-ivc-533",
       "title": "Линолеум Magnatex Дуб Белфорт 533",
       "stockByWidth": {
-        "2.5": 12.95,
+        "2.5": 9.45,
         "3": 26.65,
         "3.5": 74.65,
         "4": 70.6
@@ -1192,7 +1192,7 @@
       "title": "Линолеум Magnatex Lawrence 535",
       "stockByWidth": {
         "2.5": 20.0,
-        "3": 38.0,
+        "3": 34.0,
         "4": 38.0
       },
       "widthsM": [
