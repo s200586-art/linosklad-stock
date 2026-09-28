@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-09-27",
+  "asOf": "2026-09-28",
   "designs": 68,
   "skus": 174,
-  "tyumenLinearM": 5626.02,
+  "tyumenLinearM": 5625.02,
   "items": [
     {
       "slug": "linoleum-bazis-nxt-aventura-10",
@@ -1140,7 +1140,7 @@
       "slug": "linoleum-ivc-533",
       "title": "Линолеум Magnatex Дуб Белфорт 533",
       "stockByWidth": {
-        "2.5": 9.45,
+        "2.5": 8.45,
         "3": 26.65,
         "3.5": 74.65,
         "4": 70.6
