@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-09-28",
+  "asOf": "2026-09-29",
   "designs": 68,
   "skus": 174,
-  "tyumenLinearM": 5625.02,
+  "tyumenLinearM": 5619.02,
   "items": [
     {
       "slug": "linoleum-bazis-nxt-aventura-10",
@@ -1142,7 +1142,7 @@
       "stockByWidth": {
         "2.5": 8.45,
         "3": 26.65,
-        "3.5": 74.65,
+        "3.5": 68.65,
         "4": 70.6
       },
       "widthsM": [
