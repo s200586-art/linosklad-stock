@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-10-01",
+  "asOf": "2026-10-02",
   "designs": 68,
   "skus": 174,
-  "tyumenLinearM": 5619.02,
+  "tyumenLinearM": 5614.62,
   "items": [
     {
       "slug": "linoleum-bazis-nxt-aventura-10",
@@ -1192,7 +1192,7 @@
       "title": "Линолеум Magnatex Lawrence 535",
       "stockByWidth": {
         "2.5": 20.0,
-        "3": 34.0,
+        "3": 29.6,
         "4": 38.0
       },
       "widthsM": [
