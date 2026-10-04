@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-10-03",
+  "asOf": "2026-10-04",
   "designs": 68,
   "skus": 174,
-  "tyumenLinearM": 5614.62,
+  "tyumenLinearM": 5609.62,
   "items": [
     {
       "slug": "linoleum-bazis-nxt-aventura-10",
@@ -1163,7 +1163,7 @@
       "title": "Линолеум Magnatex Grand Oak 891",
       "stockByWidth": {
         "2.5": 38.0,
-        "4": 20.0
+        "4": 15.0
       },
       "widthsM": [
         2.5,
