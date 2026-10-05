@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-10-04",
+  "asOf": "2026-10-05",
   "designs": 68,
   "skus": 174,
-  "tyumenLinearM": 5609.62,
+  "tyumenLinearM": 5565.62,
   "items": [
     {
       "slug": "linoleum-bazis-nxt-aventura-10",
@@ -210,7 +210,7 @@
       "slug": "linoleum-juteks-forum-harwik-1",
       "title": "Линолеум JUTEKS FORUM HARWIK 1",
       "stockByWidth": {
-        "3": 37.5,
+        "3": 33.5,
         "3.5": 1.1,
         "4": 45.7
       },
@@ -230,9 +230,9 @@
       "title": "Линолеум JUTEKS FORUM HARWIK 2",
       "stockByWidth": {
         "2.5": 6.5,
-        "3": 2.0,
-        "3.5": 3.0,
-        "4": 19.3
+        "3": 1.0,
+        "3.5": 0.5,
+        "4": 17.8
       },
       "widthsM": [
         2.5,
@@ -253,7 +253,7 @@
       "stockByWidth": {
         "2.5": 2.0,
         "3": 1.0,
-        "3.5": 114.5,
+        "3.5": 111.5,
         "4": 2.5
       },
       "widthsM": [
@@ -295,9 +295,9 @@
       "slug": "linoleum-juteks-nelson-kerama-4",
       "title": "Линолеум JUTEKS NELSON KERAMA 4",
       "stockByWidth": {
-        "2.5": 32.5,
+        "2.5": 24.5,
         "3": 2.0,
-        "3.5": 2.5,
+        "3.5": 1.0,
         "4": 3.5
       },
       "widthsM": [
@@ -379,7 +379,7 @@
       "stockByWidth": {
         "0.5": 4.0,
         "1": 4.5,
-        "2.5": 6.5,
+        "2.5": 5.5,
         "3.5": 1.7,
         "4": 3.4
       },
@@ -912,7 +912,7 @@
       "title": "Линолеум Текстура AVANTA GRANADA 3",
       "stockByWidth": {
         "2": 225.5,
-        "2.5": 571.7,
+        "2.5": 558.7,
         "3": 2.5,
         "3.5": 2.0,
         "4": 8.0
@@ -996,7 +996,7 @@
         "1.5": 18.6,
         "2": 1.5,
         "3": 1.4,
-        "3.5": 260.5,
+        "3.5": 256.5,
         "4": 121.3
       },
       "widthsM": [
@@ -1018,7 +1018,7 @@
       "slug": "linoleum-tekstura-avanta-nxt-tatami-2",
       "title": "Линолеум Текстура AVANTA NXT TATAMI 2",
       "stockByWidth": {
-        "2.5": 129.0,
+        "2.5": 124.5,
         "3": 101.9,
         "3.5": 1.0,
         "4": 4.5
