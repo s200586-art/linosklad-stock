@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-10-05",
+  "asOf": "2026-10-06",
   "designs": 68,
   "skus": 174,
-  "tyumenLinearM": 5565.62,
+  "tyumenLinearM": 5534.62,
   "items": [
     {
       "slug": "linoleum-bazis-nxt-aventura-10",
@@ -24,7 +24,7 @@
       "slug": "linoleum-bazis-nxt-davos-1",
       "title": "Линолеум BAZIS NXT DAVOS 1",
       "stockByWidth": {
-        "3": 14.0
+        "3": 13.0
       },
       "widthsM": [
         3
@@ -253,7 +253,7 @@
       "stockByWidth": {
         "2.5": 2.0,
         "3": 1.0,
-        "3.5": 111.5,
+        "3.5": 105.5,
         "4": 2.5
       },
       "widthsM": [
@@ -911,7 +911,7 @@
       "slug": "linoleum-tekstura-avanta-granada-3",
       "title": "Линолеум Текстура AVANTA GRANADA 3",
       "stockByWidth": {
-        "2": 225.5,
+        "2": 222.5,
         "2.5": 558.7,
         "3": 2.5,
         "3.5": 2.0,
@@ -939,7 +939,7 @@
         "1.5": 2.5,
         "3": 269.5,
         "3.5": 34.7,
-        "4": 363.6
+        "4": 361.1
       },
       "widthsM": [
         1.5,
@@ -971,10 +971,10 @@
       "slug": "linoleum-tekstura-avanta-nxt-arden-5",
       "title": "Линолеум Текстура AVANTA NXT ARDEN 5",
       "stockByWidth": {
-        "2.5": 251.1,
+        "2.5": 248.1,
         "3": 265.3,
         "3.5": 162.5,
-        "4": 232.0
+        "4": 230.5
       },
       "widthsM": [
         2.5,
@@ -997,7 +997,7 @@
         "2": 1.5,
         "3": 1.4,
         "3.5": 256.5,
-        "4": 121.3
+        "4": 115.3
       },
       "widthsM": [
         1.5,
@@ -1018,7 +1018,7 @@
       "slug": "linoleum-tekstura-avanta-nxt-tatami-2",
       "title": "Линолеум Текстура AVANTA NXT TATAMI 2",
       "stockByWidth": {
-        "2.5": 124.5,
+        "2.5": 118.0,
         "3": 101.9,
         "3.5": 1.0,
         "4": 4.5
@@ -1063,7 +1063,7 @@
       "title": "Линолеум Рулонный винил ULTRA CRACKED OAK 016 L",
       "stockByWidth": {
         "2.5": 1.21,
-        "3": 4.05,
+        "3": 2.55,
         "3.5": 3.53,
         "4": 5.45
       },
