@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-10-09",
+  "asOf": "2026-10-10",
   "designs": 68,
   "skus": 174,
-  "tyumenLinearM": 5529.12,
+  "tyumenLinearM": 5483.62,
   "items": [
     {
       "slug": "linoleum-bazis-nxt-aventura-10",
@@ -24,7 +24,7 @@
       "slug": "linoleum-bazis-nxt-davos-1",
       "title": "Линолеум BAZIS NXT DAVOS 1",
       "stockByWidth": {
-        "3": 13.0
+        "3": 6.5
       },
       "widthsM": [
         3
@@ -53,7 +53,7 @@
       "slug": "linoleum-bazis-nxt-vegas-3",
       "title": "Линолеум BAZIS NXT VEGAS 3",
       "stockByWidth": {
-        "3": 11.0,
+        "3": 3.0,
         "3.5": 0.4
       },
       "widthsM": [
@@ -229,10 +229,10 @@
       "slug": "linoleum-juteks-forum-harwik-2",
       "title": "Линолеум JUTEKS FORUM HARWIK 2",
       "stockByWidth": {
-        "2.5": 6.5,
+        "2.5": 1.5,
         "3": 1.0,
         "3.5": 0.5,
-        "4": 17.8
+        "4": 16.3
       },
       "widthsM": [
         2.5,
@@ -274,7 +274,7 @@
       "title": "Линолеум JUTEKS NELSON FLINT 5",
       "stockByWidth": {
         "2.5": 3.0,
-        "3": 74.2,
+        "3": 71.2,
         "3.5": 3.0,
         "4": 2.0
       },
@@ -495,8 +495,8 @@
       "slug": "linoleum-master-origami-1",
       "title": "Линолеум MASTER ORIGAMI 1",
       "stockByWidth": {
-        "3": 6.5,
-        "3.5": 7.5,
+        "3": 1.5,
+        "3.5": 5.5,
         "4": 1.5
       },
       "widthsM": [
@@ -911,7 +911,7 @@
       "slug": "linoleum-tekstura-avanta-granada-3",
       "title": "Линолеум Текстура AVANTA GRANADA 3",
       "stockByWidth": {
-        "2": 222.5,
+        "2": 216.0,
         "2.5": 558.7,
         "3": 2.5,
         "3.5": 2.0,
@@ -971,7 +971,7 @@
       "slug": "linoleum-tekstura-avanta-nxt-arden-5",
       "title": "Линолеум Текстура AVANTA NXT ARDEN 5",
       "stockByWidth": {
-        "2.5": 248.1,
+        "2.5": 246.6,
         "3": 265.3,
         "3.5": 162.5,
         "4": 230.5
@@ -997,7 +997,7 @@
         "2": 1.5,
         "3": 1.4,
         "3.5": 256.5,
-        "4": 115.3
+        "4": 110.3
       },
       "widthsM": [
         1.5,
@@ -1084,7 +1084,7 @@
       "slug": "rulonnyy-vinil-ultra-cracked-oak-5",
       "title": "Линолеум Рулонный винил ULTRA CRACKED OAK 5",
       "stockByWidth": {
-        "1.5": 2.0,
+        "1.5": 0.5,
         "2": 1.6,
         "2.5": 1.33,
         "3": 6.05,
