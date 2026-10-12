@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-10-11",
+  "asOf": "2026-10-12",
   "designs": 68,
   "skus": 174,
-  "tyumenLinearM": 5483.62,
+  "tyumenLinearM": 5545.62,
   "items": [
     {
       "slug": "linoleum-bazis-nxt-aventura-10",
@@ -24,7 +24,7 @@
       "slug": "linoleum-bazis-nxt-davos-1",
       "title": "Линолеум BAZIS NXT DAVOS 1",
       "stockByWidth": {
-        "3": 6.5
+        "3": 10.5
       },
       "widthsM": [
         3
@@ -37,8 +37,8 @@
       "slug": "linoleum-bazis-nxt-dots-1",
       "title": "Линолеум BAZIS NXT DOTS 1",
       "stockByWidth": {
-        "3": 0.5,
-        "3.5": 1.0
+        "3": 2.5,
+        "3.5": 3.0
       },
       "widthsM": [
         3,
@@ -53,7 +53,7 @@
       "slug": "linoleum-bazis-nxt-vegas-3",
       "title": "Линолеум BAZIS NXT VEGAS 3",
       "stockByWidth": {
-        "3": 3.0,
+        "3": 8.5,
         "3.5": 0.4
       },
       "widthsM": [
@@ -295,10 +295,10 @@
       "slug": "linoleum-juteks-nelson-kerama-4",
       "title": "Линолеум JUTEKS NELSON KERAMA 4",
       "stockByWidth": {
-        "2.5": 24.5,
+        "2.5": 26.5,
         "3": 2.0,
         "3.5": 1.0,
-        "4": 3.5
+        "4": 5.5
       },
       "widthsM": [
         2.5,
@@ -379,7 +379,7 @@
       "stockByWidth": {
         "0.5": 4.0,
         "1": 4.5,
-        "2.5": 5.5,
+        "2.5": 10.5,
         "3.5": 1.7,
         "4": 3.4
       },
@@ -456,7 +456,7 @@
       "stockByWidth": {
         "2.5": 3.5,
         "3": 6.0,
-        "3.5": 137.0
+        "3.5": 142.5
       },
       "widthsM": [
         2.5,
@@ -913,7 +913,7 @@
       "stockByWidth": {
         "2": 216.0,
         "2.5": 558.7,
-        "3": 2.5,
+        "3": 7.5,
         "3.5": 2.0,
         "4": 8.0
       },
@@ -971,10 +971,10 @@
       "slug": "linoleum-tekstura-avanta-nxt-arden-5",
       "title": "Линолеум Текстура AVANTA NXT ARDEN 5",
       "stockByWidth": {
-        "2.5": 246.6,
-        "3": 265.3,
+        "2.5": 252.6,
+        "3": 269.3,
         "3.5": 162.5,
-        "4": 230.5
+        "4": 239.5
       },
       "widthsM": [
         2.5,
@@ -993,11 +993,11 @@
       "slug": "linoleum-tekstura-avanta-nxt-karuzo-3",
       "title": "Линолеум Текстура AVANTA NXT KARUZO 3",
       "stockByWidth": {
-        "1.5": 18.6,
-        "2": 1.5,
+        "1.5": 21.1,
+        "2": 4.0,
         "3": 1.4,
         "3.5": 256.5,
-        "4": 110.3
+        "4": 118.3
       },
       "widthsM": [
         1.5,
@@ -1141,7 +1141,7 @@
       "title": "Линолеум Magnatex Дуб Белфорт 533",
       "stockByWidth": {
         "2.5": 8.45,
-        "3": 26.65,
+        "3": 23.65,
         "3.5": 68.65,
         "4": 70.6
       },
