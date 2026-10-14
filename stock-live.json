@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-10-13",
+  "asOf": "2026-10-14",
   "designs": 68,
   "skus": 174,
-  "tyumenLinearM": 5545.62,
+  "tyumenLinearM": 5462.62,
   "items": [
     {
       "slug": "linoleum-bazis-nxt-aventura-10",
@@ -37,7 +37,7 @@
       "slug": "linoleum-bazis-nxt-dots-1",
       "title": "Линолеум BAZIS NXT DOTS 1",
       "stockByWidth": {
-        "3": 2.5,
+        "3": 1.0,
         "3.5": 3.0
       },
       "widthsM": [
@@ -180,7 +180,7 @@
       "stockByWidth": {
         "3": 0.45,
         "3.5": 0.5,
-        "4": 4.0
+        "4": 1.0
       },
       "widthsM": [
         3,
@@ -212,7 +212,7 @@
       "stockByWidth": {
         "3": 33.5,
         "3.5": 1.1,
-        "4": 45.7
+        "4": 44.2
       },
       "widthsM": [
         3,
@@ -232,7 +232,7 @@
         "2.5": 1.5,
         "3": 1.0,
         "3.5": 0.5,
-        "4": 16.3
+        "4": 4.8
       },
       "widthsM": [
         2.5,
@@ -295,7 +295,7 @@
       "slug": "linoleum-juteks-nelson-kerama-4",
       "title": "Линолеум JUTEKS NELSON KERAMA 4",
       "stockByWidth": {
-        "2.5": 26.5,
+        "2.5": 20.5,
         "3": 2.0,
         "3.5": 1.0,
         "4": 5.5
@@ -379,7 +379,7 @@
       "stockByWidth": {
         "0.5": 4.0,
         "1": 4.5,
-        "2.5": 10.5,
+        "2.5": 7.5,
         "3.5": 1.7,
         "4": 3.4
       },
@@ -473,7 +473,7 @@
       "slug": "linoleum-master-marmaris-2",
       "title": "Линолеум MASTER MARMARIS 2",
       "stockByWidth": {
-        "2.5": 2.0,
+        "2.5": 1.0,
         "3": 3.5,
         "3.5": 1.0,
         "4": 1.0
@@ -690,7 +690,7 @@
       "slug": "linoleum-semey-1-pvh-pokrytie-150-5m2-kvazar-tarket",
       "title": "Линолеум SEMEY 1 ПВХ-покрытие /150,5м2) Kvazar,Таркет",
       "stockByWidth": {
-        "3.5": 593.3
+        "3.5": 583.3
       },
       "widthsM": [
         3.5
@@ -729,7 +729,7 @@
       "slug": "linoleum-sinteros-drive-maggy-1",
       "title": "Линолеум Sinteros Drive Maggy 1",
       "stockByWidth": {
-        "3.5": 56.5
+        "3.5": 52.0
       },
       "widthsM": [
         3.5
@@ -911,8 +911,8 @@
       "slug": "linoleum-tekstura-avanta-granada-3",
       "title": "Линолеум Текстура AVANTA GRANADA 3",
       "stockByWidth": {
-        "2": 216.0,
-        "2.5": 558.7,
+        "2": 199.5,
+        "2.5": 551.2,
         "3": 7.5,
         "3.5": 2.0,
         "4": 8.0
@@ -937,8 +937,8 @@
       "title": "Линолеум Текстура AVANTA KORTES 4",
       "stockByWidth": {
         "1.5": 2.5,
-        "3": 269.5,
-        "3.5": 34.7,
+        "3": 266.5,
+        "3.5": 30.2,
         "4": 361.1
       },
       "widthsM": [
@@ -997,7 +997,7 @@
         "2": 4.0,
         "3": 1.4,
         "3.5": 256.5,
-        "4": 118.3
+        "4": 112.8
       },
       "widthsM": [
         1.5,
@@ -1019,7 +1019,7 @@
       "title": "Линолеум Текстура AVANTA NXT TATAMI 2",
       "stockByWidth": {
         "2.5": 118.0,
-        "3": 101.9,
+        "3": 97.9,
         "3.5": 1.0,
         "4": 4.5
       },
