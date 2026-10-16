@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-10-15",
-  "designs": 68,
-  "skus": 174,
-  "tyumenLinearM": 5462.62,
+  "asOf": "2026-10-16",
+  "designs": 69,
+  "skus": 175,
+  "tyumenLinearM": 5443.92,
   "items": [
     {
       "slug": "linoleum-bazis-nxt-aventura-10",
@@ -253,7 +253,7 @@
       "stockByWidth": {
         "2.5": 2.0,
         "3": 1.0,
-        "3.5": 105.5,
+        "3.5": 98.5,
         "4": 2.5
       },
       "widthsM": [
@@ -456,7 +456,7 @@
       "stockByWidth": {
         "2.5": 3.5,
         "3": 6.0,
-        "3.5": 142.5
+        "3.5": 141.5
       },
       "widthsM": [
         2.5,
@@ -690,7 +690,7 @@
       "slug": "linoleum-semey-1-pvh-pokrytie-150-5m2-kvazar-tarket",
       "title": "Линолеум SEMEY 1 ПВХ-покрытие /150,5м2) Kvazar,Таркет",
       "stockByWidth": {
-        "3.5": 583.3
+        "3.5": 559.3
       },
       "widthsM": [
         3.5
@@ -771,6 +771,19 @@
         "2.5": "ЦБ-00032298",
         "3": "ЦБ-00032299",
         "4": "ЦБ-00032300"
+      }
+    },
+    {
+      "slug": "linoleum-stars-kansas-697d",
+      "title": "Линолеум STARS Kansas 697D",
+      "stockByWidth": {
+        "5": 23.3
+      },
+      "widthsM": [
+        5
+      ],
+      "articlesByWidth": {
+        "5": "00-00005649"
       }
     },
     {
@@ -1018,8 +1031,8 @@
       "slug": "linoleum-tekstura-avanta-nxt-tatami-2",
       "title": "Линолеум Текстура AVANTA NXT TATAMI 2",
       "stockByWidth": {
-        "2.5": 118.0,
-        "3": 97.9,
+        "2.5": 113.0,
+        "3": 92.9,
         "3.5": 1.0,
         "4": 4.5
       },
