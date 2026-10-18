@@ -1,23 +1,20 @@
 {
-  "asOf": "2026-10-17",
+  "asOf": "2026-10-18",
   "designs": 69,
-  "skus": 175,
-  "tyumenLinearM": 5445.92,
+  "skus": 174,
+  "tyumenLinearM": 5476.22,
   "items": [
     {
       "slug": "linoleum-bazis-nxt-aventura-10",
       "title": "Линолеум BAZIS NXT AVENTURA 10",
       "stockByWidth": {
-        "3.5": 0.1,
-        "4": 1.5
+        "3.5": 2.6
       },
       "widthsM": [
-        3.5,
-        4
+        3.5
       ],
       "articlesByWidth": {
-        "3.5": "ЦБ-00032134",
-        "4": "ЦБ-00032135"
+        "3.5": "ЦБ-00032134"
       }
     },
     {
@@ -53,7 +50,7 @@
       "slug": "linoleum-bazis-nxt-vegas-3",
       "title": "Линолеум BAZIS NXT VEGAS 3",
       "stockByWidth": {
-        "3": 8.5,
+        "3": 12.8,
         "3.5": 0.4
       },
       "widthsM": [
@@ -178,9 +175,9 @@
       "slug": "linoleum-juteks-forum-arona-1",
       "title": "Линолеум JUTEKS FORUM ARONA 1",
       "stockByWidth": {
-        "3": 0.45,
-        "3.5": 0.5,
-        "4": 1.0
+        "3": 1.45,
+        "3.5": 3.5,
+        "4": 2.0
       },
       "widthsM": [
         3,
@@ -251,7 +248,7 @@
       "slug": "linoleum-juteks-nelson-elder-stone-4",
       "title": "Линолеум JUTEKS NELSON ELDER STONE 4",
       "stockByWidth": {
-        "2.5": 2.0,
+        "2.5": 4.0,
         "3": 1.0,
         "3.5": 98.5,
         "4": 2.5
@@ -295,7 +292,7 @@
       "slug": "linoleum-juteks-nelson-kerama-4",
       "title": "Линолеум JUTEKS NELSON KERAMA 4",
       "stockByWidth": {
-        "2.5": 20.5,
+        "2.5": 23.0,
         "3": 2.0,
         "3.5": 1.0,
         "4": 5.5
@@ -549,7 +546,7 @@
       "slug": "linoleum-motive-gent-1",
       "title": "Линолеум MOTIVE GENT 1",
       "stockByWidth": {
-        "3": 0.5,
+        "3": 1.5,
         "3.5": 1.2,
         "4": 0.5
       },
@@ -758,7 +755,7 @@
       "slug": "linoleum-sinteros-status-graph-1",
       "title": "Линолеум Sinteros Status Graph 1",
       "stockByWidth": {
-        "2.5": 33.0,
+        "2.5": 39.0,
         "3": 1.1,
         "4": 4.5
       },
@@ -1031,8 +1028,8 @@
       "slug": "linoleum-tekstura-avanta-nxt-tatami-2",
       "title": "Линолеум Текстура AVANTA NXT TATAMI 2",
       "stockByWidth": {
-        "2.5": 113.0,
-        "3": 92.9,
+        "2.5": 117.0,
+        "3": 94.4,
         "3.5": 1.0,
         "4": 4.5
       },
@@ -1125,7 +1122,7 @@
       "slug": "rulonnyy-vinil-ultra-garda-018l",
       "title": "Линолеум Рулонный винил ULTRA Garda 018L",
       "stockByWidth": {
-        "1.5": 3.09,
+        "1.5": 6.09,
         "2": 1.45,
         "2.5": 3.39,
         "3": 3.65,
