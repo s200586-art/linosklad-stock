@@ -1,20 +1,23 @@
 {
-  "asOf": "2026-10-18",
+  "asOf": "2026-10-19",
   "designs": 69,
-  "skus": 174,
-  "tyumenLinearM": 5476.22,
+  "skus": 175,
+  "tyumenLinearM": 5471.22,
   "items": [
     {
       "slug": "linoleum-bazis-nxt-aventura-10",
       "title": "Линолеум BAZIS NXT AVENTURA 10",
       "stockByWidth": {
-        "3.5": 2.6
+        "3.5": 2.6,
+        "4": 2.0
       },
       "widthsM": [
-        3.5
+        3.5,
+        4
       ],
       "articlesByWidth": {
-        "3.5": "ЦБ-00032134"
+        "3.5": "ЦБ-00032134",
+        "4": "ЦБ-00032135"
       }
     },
     {
@@ -948,7 +951,7 @@
       "stockByWidth": {
         "1.5": 2.5,
         "3": 266.5,
-        "3.5": 30.2,
+        "3.5": 33.2,
         "4": 361.1
       },
       "widthsM": [
@@ -1173,7 +1176,7 @@
       "title": "Линолеум Magnatex Grand Oak 891",
       "stockByWidth": {
         "2.5": 32.5,
-        "4": 15.0
+        "4": 5.0
       },
       "widthsM": [
         2.5,
