@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-11-01",
-  "designs": 69,
-  "skus": 175,
-  "tyumenLinearM": 5335.42,
+  "asOf": "2026-11-02",
+  "designs": 70,
+  "skus": 176,
+  "tyumenLinearM": 5381.42,
   "items": [
     {
       "slug": "linoleum-bazis-nxt-aventura-10",
@@ -108,6 +108,19 @@
       ],
       "articlesByWidth": {
         "2.5": "ЦБ-00025144"
+      }
+    },
+    {
+      "slug": "linoleum-hc-tarkett-tempo-plyus-1002-43-2-gomogen",
+      "title": "Линолеум HC Tarkett Темпо Плюс 1002 , 43\\2 гомоген",
+      "stockByWidth": {
+        "2": 46.0
+      },
+      "widthsM": [
+        2
+      ],
+      "articlesByWidth": {
+        "2": "ЦБ-00032986"
       }
     },
     {
