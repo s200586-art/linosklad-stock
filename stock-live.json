@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-11-02",
-  "designs": 70,
-  "skus": 176,
-  "tyumenLinearM": 5381.42,
+  "asOf": "2026-11-03",
+  "designs": 69,
+  "skus": 175,
+  "tyumenLinearM": 5307.92,
   "items": [
     {
       "slug": "linoleum-bazis-nxt-aventura-10",
@@ -108,19 +108,6 @@
       ],
       "articlesByWidth": {
         "2.5": "ЦБ-00025144"
-      }
-    },
-    {
-      "slug": "linoleum-hc-tarkett-tempo-plyus-1002-43-2-gomogen",
-      "title": "Линолеум HC Tarkett Темпо Плюс 1002 , 43\\2 гомоген",
-      "stockByWidth": {
-        "2": 46.0
-      },
-      "widthsM": [
-        2
-      ],
-      "articlesByWidth": {
-        "2": "ЦБ-00032986"
       }
     },
     {
@@ -245,7 +232,7 @@
         "2.5": 1.5,
         "3": 1.0,
         "3.5": 0.5,
-        "4": 4.8
+        "4": 3.3
       },
       "widthsM": [
         2.5,
@@ -308,7 +295,7 @@
       "slug": "linoleum-juteks-nelson-kerama-4",
       "title": "Линолеум JUTEKS NELSON KERAMA 4",
       "stockByWidth": {
-        "2.5": 20.0,
+        "2.5": 16.5,
         "3": 2.0,
         "3.5": 1.0,
         "4": 5.5
@@ -716,7 +703,7 @@
       "slug": "linoleum-semey-1-pvh-pokrytie-kvazar-tarket",
       "title": "Линолеум SEMEY 1 ПВХ-покрытие Kvazar,Таркет",
       "stockByWidth": {
-        "2.5": 356.5
+        "2.5": 355.0
       },
       "widthsM": [
         2.5
@@ -937,8 +924,8 @@
       "slug": "linoleum-tekstura-avanta-granada-3",
       "title": "Линолеум Текстура AVANTA GRANADA 3",
       "stockByWidth": {
-        "2": 194.5,
-        "2.5": 542.7,
+        "2": 189.5,
+        "2.5": 530.7,
         "3": 7.5,
         "3.5": 2.0,
         "4": 8.0
@@ -1045,7 +1032,7 @@
       "title": "Линолеум Текстура AVANTA NXT TATAMI 2",
       "stockByWidth": {
         "2.5": 107.5,
-        "3": 86.9,
+        "3": 82.9,
         "3.5": 1.0,
         "4": 4.5
       },
