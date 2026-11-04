@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-11-03",
+  "asOf": "2026-11-04",
   "designs": 69,
   "skus": 175,
-  "tyumenLinearM": 5307.92,
+  "tyumenLinearM": 5286.42,
   "items": [
     {
       "slug": "linoleum-bazis-nxt-aventura-10",
@@ -210,7 +210,7 @@
       "slug": "linoleum-juteks-forum-harwik-1",
       "title": "Линолеум JUTEKS FORUM HARWIK 1",
       "stockByWidth": {
-        "3": 32.0,
+        "3": 29.5,
         "3.5": 1.1,
         "4": 44.2
       },
@@ -253,7 +253,7 @@
       "stockByWidth": {
         "2.5": 4.0,
         "3": 1.0,
-        "3.5": 79.5,
+        "3.5": 78.5,
         "4": 2.5
       },
       "widthsM": [
@@ -456,7 +456,7 @@
       "stockByWidth": {
         "2.5": 3.5,
         "3": 6.0,
-        "3.5": 141.5
+        "3.5": 138.0
       },
       "widthsM": [
         2.5,
@@ -703,7 +703,7 @@
       "slug": "linoleum-semey-1-pvh-pokrytie-kvazar-tarket",
       "title": "Линолеум SEMEY 1 ПВХ-покрытие Kvazar,Таркет",
       "stockByWidth": {
-        "2.5": 355.0
+        "2.5": 351.5
       },
       "widthsM": [
         2.5
@@ -926,7 +926,7 @@
       "stockByWidth": {
         "2": 189.5,
         "2.5": 530.7,
-        "3": 7.5,
+        "3": 2.5,
         "3.5": 2.0,
         "4": 8.0
       },
@@ -1010,7 +1010,7 @@
         "2": 4.0,
         "3": 1.4,
         "3.5": 245.0,
-        "4": 108.8
+        "4": 102.8
       },
       "widthsM": [
         1.5,
