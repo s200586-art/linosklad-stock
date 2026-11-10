@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-11-09",
+  "asOf": "2026-11-10",
   "designs": 69,
   "skus": 175,
-  "tyumenLinearM": 5275.42,
+  "tyumenLinearM": 5246.42,
   "items": [
     {
       "slug": "linoleum-bazis-nxt-aventura-10",
@@ -690,7 +690,7 @@
       "slug": "linoleum-semey-1-pvh-pokrytie-150-5m2-kvazar-tarket",
       "title": "Линолеум SEMEY 1 ПВХ-покрытие /150,5м2) Kvazar,Таркет",
       "stockByWidth": {
-        "3.5": 552.8
+        "3.5": 523.8
       },
       "widthsM": [
         3.5
