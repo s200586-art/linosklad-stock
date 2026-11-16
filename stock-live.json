@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-11-15",
+  "asOf": "2026-11-16",
   "designs": 68,
   "skus": 167,
-  "tyumenLinearM": 5202.81,
+  "tyumenLinearM": 5202.31,
   "items": [
     {
       "slug": "linoleum-bazis-nxt-aventura-10",
@@ -226,7 +226,7 @@
       "slug": "linoleum-juteks-nelson-elder-stone-4",
       "title": "Линолеум JUTEKS NELSON ELDER STONE 4",
       "stockByWidth": {
-        "2.5": 4.0,
+        "2.5": 3.5,
         "3": 1.0,
         "3.5": 78.0,
         "4": 2.0
