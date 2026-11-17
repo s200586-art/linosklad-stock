@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-11-16",
+  "asOf": "2026-11-17",
   "designs": 68,
   "skus": 167,
-  "tyumenLinearM": 5202.31,
+  "tyumenLinearM": 5192.81,
   "items": [
     {
       "slug": "linoleum-bazis-nxt-aventura-10",
@@ -188,7 +188,7 @@
       "slug": "linoleum-juteks-forum-harwik-1",
       "title": "Линолеум JUTEKS FORUM HARWIK 1",
       "stockByWidth": {
-        "3": 27.5,
+        "3": 21.5,
         "3.5": 1.1,
         "4": 31.64
       },
@@ -226,7 +226,7 @@
       "slug": "linoleum-juteks-nelson-elder-stone-4",
       "title": "Линолеум JUTEKS NELSON ELDER STONE 4",
       "stockByWidth": {
-        "2.5": 3.5,
+        "2.5": 1.5,
         "3": 1.0,
         "3.5": 78.0,
         "4": 2.0
@@ -797,7 +797,7 @@
       "stockByWidth": {
         "2": 1.0,
         "2.5": 0.65,
-        "3": 4.77,
+        "3": 3.27,
         "3.5": 4.85,
         "4": 2.75
       },
