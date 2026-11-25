@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-11-24",
+  "asOf": "2026-11-25",
   "designs": 68,
   "skus": 167,
-  "tyumenLinearM": 5177.31,
+  "tyumenLinearM": 5145.81,
   "items": [
     {
       "slug": "linoleum-bazis-nxt-aventura-10",
@@ -270,7 +270,7 @@
       "slug": "linoleum-juteks-nelson-kerama-4",
       "title": "Линолеум JUTEKS NELSON KERAMA 4",
       "stockByWidth": {
-        "2.5": 16.0,
+        "2.5": 13.5,
         "3": 2.0,
         "3.5": 1.0,
         "4": 5.5
@@ -975,8 +975,8 @@
         "1.5": 21.1,
         "2": 4.0,
         "3": 1.4,
-        "3.5": 239.5,
-        "4": 100.8
+        "3.5": 234.5,
+        "4": 88.8
       },
       "widthsM": [
         1.5,
@@ -997,7 +997,7 @@
       "slug": "linoleum-tekstura-avanta-nxt-tatami-2",
       "title": "Линолеум Текстура AVANTA NXT TATAMI 2",
       "stockByWidth": {
-        "2.5": 107.5,
+        "2.5": 95.5,
         "3": 82.9,
         "3.5": 1.0,
         "4": 4.5
