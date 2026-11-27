@@ -1,8 +1,8 @@
 {
   "asOf": "2026-11-27",
-  "designs": 68,
-  "skus": 167,
-  "tyumenLinearM": 5132.91,
+  "designs": 65,
+  "skus": 156,
+  "tyumenLinearM": 5029.44,
   "items": [
     {
       "slug": "linoleum-bazis-nxt-aventura-10",
@@ -66,19 +66,6 @@
       }
     },
     {
-      "slug": "linoleum-evrika-tara-1",
-      "title": "Линолеум EVRIKA TARA 1",
-      "stockByWidth": {
-        "4": 33.5
-      },
-      "widthsM": [
-        4
-      ],
-      "articlesByWidth": {
-        "4": "ЦБ-00030222"
-      }
-    },
-    {
       "slug": "linoleum-fortuna-nxt-aventura-9",
       "title": "Линолеум FORTUNA NXT AVENTURA 9",
       "stockByWidth": {
@@ -95,16 +82,13 @@
       "slug": "linoleum-ideal-consul-bergen-8",
       "title": "Линолеум ideal Consul Bergen 8",
       "stockByWidth": {
-        "2.5": 17.73,
-        "3": 0.2
+        "2.5": 17.73
       },
       "widthsM": [
-        2.5,
-        3
+        2.5
       ],
       "articlesByWidth": {
-        "2.5": "ЦБ-00023420",
-        "3": "УП-00050477"
+        "2.5": "ЦБ-00023420"
       }
     },
     {
@@ -189,17 +173,14 @@
       "title": "Линолеум JUTEKS FORUM HARWIK 1",
       "stockByWidth": {
         "3": 21.5,
-        "3.5": 1.1,
         "4": 31.64
       },
       "widthsM": [
         3,
-        3.5,
         4
       ],
       "articlesByWidth": {
         "3": "ЦБ-00024773",
-        "3.5": "ЦБ-00024772",
         "4": "ЦБ-00024771"
       }
     },
@@ -208,17 +189,14 @@
       "title": "Линолеум JUTEKS FORUM HARWIK 2",
       "stockByWidth": {
         "2.5": 1.5,
-        "3": 1.0,
         "4": 1.2
       },
       "widthsM": [
         2.5,
-        3,
         4
       ],
       "articlesByWidth": {
         "2.5": "ЦБ-00024762",
-        "3": "ЦБ-00024769",
         "4": "ЦБ-00024770"
       }
     },
@@ -251,7 +229,7 @@
         "2.5": 3.0,
         "3": 71.2,
         "3.5": 3.0,
-        "4": 2.0
+        "4": 1.0
       },
       "widthsM": [
         2.5,
@@ -271,19 +249,16 @@
       "title": "Линолеум JUTEKS NELSON KERAMA 4",
       "stockByWidth": {
         "2.5": 13.5,
-        "3": 2.0,
         "3.5": 1.0,
-        "4": 5.5
+        "4": 2.0
       },
       "widthsM": [
         2.5,
-        3,
         3.5,
         4
       ],
       "articlesByWidth": {
         "2.5": "ЦБ-00027351",
-        "3": "ЦБ-00027350",
         "3.5": "ЦБ-00027349",
         "4": "ЦБ-00027348"
       }
@@ -347,7 +322,7 @@
         "1": 4.5,
         "2.5": 7.5,
         "3.5": 1.7,
-        "4": 3.4
+        "4": 1.5
       },
       "widthsM": [
         0.5,
@@ -407,7 +382,7 @@
       "slug": "linoleum-juteks-supreme-texas-oak-916m",
       "title": "Линолеум Juteks SUPREME TEXAS OAK 916M",
       "stockByWidth": {
-        "5": 4.5
+        "5": 3.7
       },
       "widthsM": [
         5
@@ -420,7 +395,7 @@
       "slug": "linoleum-juteks-trend-muskat-3",
       "title": "Линолеум JUTEKS TREND MUSKAT 3",
       "stockByWidth": {
-        "2.5": 3.5,
+        "2.5": 1.5,
         "3": 6.0,
         "3.5": 138.0
       },
@@ -499,7 +474,7 @@
       "slug": "linoleum-motive-domino-8",
       "title": "Линолеум MOTIVE DOMINO 8",
       "stockByWidth": {
-        "3.5": 3.8,
+        "3.5": 1.5,
         "4": 1.0
       },
       "widthsM": [
@@ -561,19 +536,16 @@
       "title": "Линолеум Olympia GENT 1",
       "stockByWidth": {
         "2.5": 2.3,
-        "3": 0.05,
         "3.5": 3.3,
         "4": 67.08
       },
       "widthsM": [
         2.5,
-        3,
         3.5,
         4
       ],
       "articlesByWidth": {
         "2.5": "ЦБ-00024891",
-        "3": "ЦБ-00023162",
         "3.5": "ЦБ-00023651",
         "4": "ЦБ-00024890"
       }
@@ -584,19 +556,16 @@
       "stockByWidth": {
         "2": 4.5,
         "2.5": 1.5,
-        "3.5": 0.2,
         "4": 20.0
       },
       "widthsM": [
         2,
         2.5,
-        3.5,
         4
       ],
       "articlesByWidth": {
         "2": "ЦБ-00024794",
         "2.5": "ЦБ-00024793",
-        "3.5": "ЦБ-00024789",
         "4": "ЦБ-00024791"
       }
     },
@@ -740,32 +709,6 @@
       }
     },
     {
-      "slug": "linoleum-stars-kansas-697d",
-      "title": "Линолеум STARS Kansas 697D",
-      "stockByWidth": {
-        "5": 23.3
-      },
-      "widthsM": [
-        5
-      ],
-      "articlesByWidth": {
-        "5": "00-00005649"
-      }
-    },
-    {
-      "slug": "linoleum-stars-stars-pure-oak-6182",
-      "title": "Линолеум STARS Stars Pure Oak 6182",
-      "stockByWidth": {
-        "5": 0.1
-      },
-      "widthsM": [
-        5
-      ],
-      "articlesByWidth": {
-        "5": "00-00020358"
-      }
-    },
-    {
       "slug": "linoleum-stimul-olbany-1",
       "title": "Линолеум Stimul Olbany 1",
       "stockByWidth": {
@@ -795,7 +738,7 @@
       "slug": "linoleum-ultra-calypso-2",
       "title": "Линолеум ULTRA CALYPSO 2",
       "stockByWidth": {
-        "2": 1.0,
+        "2": 0.5,
         "2.5": 0.65,
         "3": 3.27,
         "3.5": 4.85,
@@ -833,7 +776,7 @@
       "slug": "linoleum-ultra-columbian-oak-019s",
       "title": "Линолеум ULTRA Columbian Oak 019S",
       "stockByWidth": {
-        "4": 7.37
+        "4": 3.17
       },
       "widthsM": [
         4
@@ -849,7 +792,7 @@
         "1.5": 4.05,
         "2": 1.85,
         "3": 3.6,
-        "3.5": 11.92
+        "3.5": 4.8
       },
       "widthsM": [
         1.5,
@@ -916,8 +859,8 @@
       "title": "Линолеум Текстура AVANTA KORTES 4",
       "stockByWidth": {
         "1.5": 2.5,
-        "3": 261.4,
-        "3.5": 28.7,
+        "3": 257.1,
+        "3.5": 27.2,
         "4": 353.6
       },
       "widthsM": [
@@ -999,19 +942,16 @@
       "stockByWidth": {
         "2.5": 95.5,
         "3": 82.9,
-        "3.5": 1.0,
-        "4": 4.5
+        "4": 3.5
       },
       "widthsM": [
         2.5,
         3,
-        3.5,
         4
       ],
       "articlesByWidth": {
         "2.5": "ЦБ-00027825",
         "3": "ЦБ-00027336",
-        "3.5": "ЦБ-00027824",
         "4": "ЦБ-00027347"
       }
     },
@@ -1022,7 +962,7 @@
         "2": 3.88,
         "3": 3.3,
         "3.5": 3.64,
-        "4": 1.14
+        "4": 0.14
       },
       "widthsM": [
         2,
@@ -1042,7 +982,7 @@
       "title": "Линолеум Рулонный винил ULTRA CRACKED OAK 016 L",
       "stockByWidth": {
         "2.5": 1.21,
-        "3": 2.55,
+        "3": 1.45,
         "3.5": 3.53,
         "4": 5.45
       },
@@ -1063,15 +1003,13 @@
       "slug": "rulonnyy-vinil-ultra-cracked-oak-5",
       "title": "Линолеум Рулонный винил ULTRA CRACKED OAK 5",
       "stockByWidth": {
-        "1.5": 0.5,
         "2": 1.6,
         "2.5": 1.33,
-        "3": 6.05,
+        "3": 0.9,
         "3.5": 6.6,
         "4": 1.77
       },
       "widthsM": [
-        1.5,
         2,
         2.5,
         3,
@@ -1079,7 +1017,6 @@
         4
       ],
       "articlesByWidth": {
-        "1.5": "УП-00016155",
         "2": "УП-00016156",
         "2.5": "УП-00016157",
         "3": "УП-00016153",
@@ -1094,7 +1031,7 @@
         "1.5": 6.09,
         "2": 1.45,
         "2.5": 3.39,
-        "3": 3.65,
+        "3": 0.5,
         "3.5": 9.31,
         "4": 9.05
       },
